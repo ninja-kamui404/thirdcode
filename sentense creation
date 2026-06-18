@@ -1,0 +1,27 @@
+<script> 
+    let bot ="noun";
+    bot = "man";
+    console.log(bot);
+    let adjective = "tall";
+    console.log(adjective);
+    let verb = "touched";
+    console.log(verb);
+    let place = "cave";
+    console.log(place);
+    let adjective2 = "brown";
+    console.log(adjective2);
+    let noun2 = "apples";
+    let firstStory = "once upon a time,there was a "  +  adjective  +  bot  +  "who loved to eat "  +  noun2  +  "."  + "The " + bot + "lived in a "  + place + "and had " +  adjective2  + "nostrils that blew fire when it was " + verb + ".";
+console.log(firstStory); 
+console.log(bot);
+adjective = "
+noun2 = "eggs";
+let secondStory = "once upon a time,there was a " +  adjective + "," + bot + "who loved to eat " +  noun2  + "." + "The " + bot + "lived in a " + place + "and had " + adjective2 + "nostrils that blew fire when it was " + verb + ".";
+console.log(secondStory);
+</script>slim";
+console.log(adjective);
+verb = "called";
+console.log(verb);
+place = "mansion";
+console.log(place);
+adjective2 = "black";
